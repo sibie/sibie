@@ -7,9 +7,7 @@ I graduated in 2016 with an engineering degree in Computer Science from the Univ
 ### My Skills
 | Command | Description |
 | --- | --- |
-| Languages | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-" /> |
+| Languages | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> |
 | Databases | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
 
 - 🔭 I’m currently working on earning a solutions architect certification for Microsoft Azure.
