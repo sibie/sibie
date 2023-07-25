@@ -5,7 +5,7 @@ I'm Sibie Arunmozhi, a software engineer with a passion for conceptualizing and 
 I graduated in 2016 with an engineering degree in Computer Science from the University of Hong Kong (HKU). During my course, I interned with J.P. Morgan and ended up accepting an offer to join the firm full-time as part of their Technology Analyst Program (TAP) in Singapore. I worked there for 3 years as a full-stack RAD developer in equities and banking technology before returning to India in 2019. Since then, I've spent the past 4 years in the startup scene due to my interest in building fresh products from the ground up. Currently I'm working on Kyro, an AI-powered construction management technology platform that aims to solve two of the biggest problems in the industry - broken workflows and resulting financial issues - with a specific focus on the mission-critical infrastructure sector.
 
 ### My Skills
-![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white})
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - 🔭 I’m currently working on earning a solutions architect certification for Microsoft Azure.
 - 🌱 I’m currently learning about semantic search with Elasticsearch, OpenAI and LangChain.
