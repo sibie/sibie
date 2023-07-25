@@ -1,10 +1,14 @@
 ### ❔ About Me
 I'm Sibie Arunmozhi, a software engineer with a passion for conceptualizing and creating innovative technology solutions. I'm a specialist in designing **event-driven, cloud-native microservices using Python & Java tech stacks**. While my professional focus is on backend, infrastructure and devops, I also have experience in frontend development and a deep interest in data science which I explore in my spare time.
 
+<br>
+
 ### 🌐 My Journey
 I graduated in 2016 with an engineering degree in Computer Science from the University of Hong Kong (HKU). During my junior year, I interned with J.P. Morgan and ended up accepting an offer to join the firm full-time as part of their Technology Analyst Program (TAP) in Singapore. I worked there for 3 years as a full-stack RAD developer in equities and banking technology before returning to India in 2019.
 
 Since then, I've spent the past 4 years in the startup scene due to my interest in building fresh products from the ground up. Currently I'm working on [KYRO](https://kyro.ai/), an AI-powered construction management technology platform that aims to solve two of the biggest problems in the industry - broken workflows and resulting financial issues - with a specific focus on the mission-critical infrastructure sector.
+
+<br>
 
 ### 💻 My Skills
 | <!-- -->    | <!-- -->    |
@@ -19,6 +23,7 @@ Since then, I've spent the past 4 years in the startup scene due to my interest 
 | **CI/CD** | <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" /> |
 | **Tools** | <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
 
+<br>
 
 - 🔭 I’m currently working on earning a solutions architect certification for Microsoft Azure.
 - 🌱 I’m currently learning about semantic search with Elasticsearch, OpenAI and LangChain.
